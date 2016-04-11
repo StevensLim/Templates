@@ -3,17 +3,24 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "slstore2"
     },
     "adminUsername": {
       "value": "admin123"
     },
     "adminPassword": {
-      "value": "ADmin123_!"
+      "value": "Passw0rd!"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
+      "value": "sl7777"
+    },
+    "location": {
+      "value": "West US"
+    },
+    "sizeOfDiskInGB" : {
+      "value": "20"
     }
   }
+  
 }
 
