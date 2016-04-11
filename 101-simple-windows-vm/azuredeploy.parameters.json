@@ -17,10 +17,9 @@
     "location": {
       "value": "West US"
     },
-    "sizeOfDiskInGB" : {
+    "sizeOfDiskInGB": {
       "value": "20"
     }
   }
-  
 }
 
