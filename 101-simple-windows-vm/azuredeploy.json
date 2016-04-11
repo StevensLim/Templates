@@ -36,7 +36,7 @@
       "metadata": {
         "description": "Restricts choices to where premium storage is located in the US."
       },
-      "sizeOfEachDataDiskInGB": {
+      "sizeOfDataDiskInGB": {
         "type": "string",
         "metadata": {"description": "Size of each data disk in GB"
     }
